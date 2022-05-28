@@ -1,3 +1,4 @@
+```
 # JAVA Coupon-Code-Generator
 
 - Coupon-Code-Generator is made with Java
@@ -40,3 +41,4 @@
 
 This Project is for my Practice on JAVA, OOPS, DSA.
 : )
+```
