@@ -37,7 +37,5 @@
 - This application gives some Genuine felling for the Customers about coupons
 - This will reduce human effect to generate coupon code in Small Retail Stores/Shops and also find user duplicacy.
 
-### Conclusion
 
-This Project is for my Practice on JAVA, OOPS, DSA.
 : )
